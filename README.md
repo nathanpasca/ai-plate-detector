@@ -1,5 +1,5 @@
 # AI License Plate Recognition System
-Python-based license plate recognition system using Google's Gemini AI API to detect and analyze vehicle information from images. This project was developed as part of President University MSIT Machine Learning course assignment to demonstrate practical applications of AI in messaging platforms.
+Python-based license plate recognition system using Google's Gemini AI API to detect and analyze vehicle information from images. This project was developed as part of President University MSIT Machine Learning course assignment to demonstrate practical applications of AI.
 
 ## Prerequisites
 Before running this bot, make sure you have:
