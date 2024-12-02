@@ -59,3 +59,4 @@ This project was developed as part of an academic assignment in Machine Learning
 ## Acknowledgments
 - [Google Gemini AI](https://ai.google.dev/)
 - [Python Pillow](https://python-pillow.org/)
+- [Vehicle Image](https://oto.detik.com/berita/d-6807244/polisi-usul-pelat-nomor-bisa-pakai-nama-orang-asal-bayar-rp-500-juta)
